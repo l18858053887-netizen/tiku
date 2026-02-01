@@ -1,0 +1,8 @@
+
+{
+  "name": "智汇答题助手 - AI 扫码搜题版",
+  "description": "基于 Gemini AI 的智能辅助工具。上传 Excel 题库，通过拍照或截图自动识别外部应用题目并匹配答案。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
